@@ -1,0 +1,5 @@
+env/
+sample_pics/
+todo.txt
+DataSegmentation/test.py
+DataSegmentation/dataset/
